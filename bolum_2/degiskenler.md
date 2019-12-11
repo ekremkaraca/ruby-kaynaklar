@@ -2,8 +2,6 @@
 
 Değişken denen şey, yani **Variable**, nesneye atanmış bir işaretçidir aslında. Ne demiştik? Ruby'de her şey bir nesne yani **Object**. Bu nesnelere erişmek için aracıdır değişkenler.
 
-![Resim 3.2.1 Obje Hiyeraşisi](../images/ruby-object-hiyerasi.png)
-
 Farklı farklı türleri vardır. Birazdan bunlara değineceğiz. En basit anlamda değişken tanımlamak;
 
 ```ruby
