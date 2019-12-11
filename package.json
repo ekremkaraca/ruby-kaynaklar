@@ -1,0 +1,14 @@
+{
+  "name": "ruby-kaynaklar",
+  "preivate": true,
+  "repository": "https://github.com/rubytr/ruby-kaynaklar",
+  "author": "Ekrem <ekrem.karaca@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "scripts": {
+    "build": "vuepress build",
+    "dev": "vuepress dev"
+  }
+}
